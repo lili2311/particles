@@ -1,4 +1,4 @@
-particles
+Javascript Particles
 =========
 
-Particles screated using javascript
+Particles created using javascript
